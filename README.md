@@ -2,7 +2,7 @@
 The server contruction for a T-Shirt App
 
 ## View It Live
-If you just want to view and play with the application, you can do so [here](https://ai-image-generator-server-gamma.vercel.app/).
+If you just want to view and play with the application, you can do so [here](https://ai-t-shirt-app-server.vercel.app/).
 
 ## Getting Started
 Inside the project directory run:

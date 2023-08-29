@@ -33,9 +33,7 @@ server.listen(process.env.PORT, async () => {
   }
 })
 
-
 // AZ: Export the `server` instance as required for Vercel support
 export default server
 
 
-// app.use('/api/v1/dalle', dalleRoutes)

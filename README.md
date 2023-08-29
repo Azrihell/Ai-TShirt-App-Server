@@ -18,7 +18,7 @@ by default the application will run on `localhost:3000`.
 * [Mongodb](https://www.mongodb.com/)
 
 ## Project Reference
-This project has an occompaning [client application](https://github.com/Azrihell/AI-Image-Generator-Client) that you'll need in order to fully engage with the APIs. 
+This project has an occompaning [client application](https://github.com/Azrihell/Ai-TShirt-App-Client) that you'll need in order to fully engage with the APIs. 
 
 ## Local Development
 Make sure you rename the `.envs` file to `.env` and update the variables to your sync with your own external services. 
